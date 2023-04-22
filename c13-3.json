@@ -5,12 +5,11 @@
     "admobInterstitial": "",
     "AdmobNative": "",
     "applovinBanner": "999999999999999Banner",
-    "applovinInterstitial": "88888888888Inter",
+    "applovinInterstitial": "c876d4b0c15a2575",
     "ApplovinNative": "77777777777777Native",
     "unityGameId": "",
     "testMode": false,
     "unityBanner": "",
-    "unityInterstitial": "",
-    "RatingActive": true
+    "unityInterstitial": ""
   }
 }
